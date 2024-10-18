@@ -1,0 +1,23 @@
+header{
+  text-align: center;
+}
+header a{
+  margin:0 30px;
+}
+header + div{
+  background-color: #eee;
+  padding:40px;
+  margin-top:30px;
+}
+#__next{
+  width:60%;
+  margin:0 auto;
+}
+img{
+  width: 100%;
+  object-fit: cover;
+}
+.preview{
+  width: 300px; height: 300px;
+  border: 1px solid black;
+}
